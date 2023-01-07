@@ -41,6 +41,7 @@ header {
 .failure{
     display: flex;
     justify-content: space-around;
+    margin-bottom: 100px;
 
 }
 .primaryh1{
@@ -59,4 +60,24 @@ header {
 }
 #img-person {
     margin-top: 300px;
+}
+.myplan{
+    align-content: center;
+}
+#planid{
+    text-align: center;
+    margin-bottom: 100px;
+}
+
+.plans{
+    display: flex;
+    text-align: center;
+    justify-content: space-around;
+    margin-left: 200px;
+    margin-right: 200px;
+
+}
+.plans p{
+    color:  #737272;
+
 }

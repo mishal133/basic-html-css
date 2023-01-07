@@ -1,0 +1,40 @@
+*{
+    font-family: 'Work Sans', sans-serif;
+    margin: 0px;
+}
+header {
+    background-image: url(/images/banner/banner3.png);
+    background-position: top center;
+    background-repeat: no-repeat;
+    width: 1600px;
+    height: 808px;
+    text-align: right;
+}
+.banner{
+    padding-top: 216px;
+    padding-right: 230px;
+}
+.head-title{
+
+    font-weight: 700;
+    font-size: 65px;
+    color: #FFFFFF;
+    padding-bottom: 24px;
+
+}
+.head-desc{
+    font-weight: 400;
+    font-size: 16px;
+    color: #FFFFFF;
+    padding-bottom: 32px;
+ 
+}
+.contact-button{
+    font-weight: 600;
+    font-size: 20px;
+    color: #005FAC;
+    width: 160px;
+    height: 64px;
+    border-radius: 5px;
+    border: none;
+}

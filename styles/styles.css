@@ -6,7 +6,7 @@ header {
     background-image: url(../images/banner/banner3.png);
     background-position: top center;
     background-repeat: no-repeat;
-    width: 1600px;
+    width: 1540px;
     height: 808px;
     text-align: right;
 }
@@ -37,4 +37,26 @@ header {
     height: 64px;
     border-radius: 5px;
     border: none;
+}
+.failure{
+    display: flex;
+    justify-content: space-around;
+
+}
+.primaryh1{
+    font-weight: 700;
+    font-size: 40px;
+    color: #151414;
+}
+.fail-p, ul{
+    font-weight: 400;
+    font-size: 16px;
+    color: #444343;
+}
+#fdiv {
+    margin-top: 500px;
+
+}
+#img-person {
+    margin-top: 300px;
 }
